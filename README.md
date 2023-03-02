@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning front-end (mainly React) and mobile (Flutter)
 
-- 🤔 I’m looking for help with ...
-
 - 💬 Ask me about tecnology and music
 
 - ⚡ Fun fact: I'm musician 🎵 🎵 and play some instruments as a beginner -> 🎸 🎸 🎹 🥁
